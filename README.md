@@ -14,7 +14,7 @@ This repository is part of a growing collection of resources designed to help st
 
 ---
 
-### **[Learn Database Fundamentals](./database_fundamentals) **
+### [Learn Database Fundamentals](./database_fundamentals) 
 - A **comprehensive tutorial** on setting up and connecting Java applications to a MySQL database using Eclipse.  
 - Examples that demonstrate how to execute SQL queries and display results in Java.  
 - Guidance on tools like MySQL Workbench, JDBC drivers, and best practices for Java-MySQL integration.  
